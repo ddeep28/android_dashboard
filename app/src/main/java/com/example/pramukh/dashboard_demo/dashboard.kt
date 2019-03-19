@@ -14,8 +14,8 @@ class dashboard : AppCompatActivity() {
         setContentView(R.layout.activity_dashboard)
 
 
-        var actionBar=supportActionBar
-        actionBar!!.setDisplayHomeAsUpEnabled(true)
+            //  var actionBar=supportActionBar
+      //  actionBar!!.setDisplayHomeAsUpEnabled(true)
 
 
         card1.setOnClickListener{
